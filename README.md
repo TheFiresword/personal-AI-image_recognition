@@ -3,7 +3,7 @@
 - ![alt text](img2.png)
 - ![alt text](img3.png)
 
-- ![Video](https://youtu.be/N54Y_iZUwXo)
+- [![Video](img3.png)(https://youtu.be/N54Y_iZUwXo)]
 
 # Explanation:
 So, to get a functional model:
