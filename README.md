@@ -1,7 +1,6 @@
 # Functionality
 - ![alt text](img1.png)
 - ![alt text](img2.png)
-- ![alt text](img3.png)
 
 - ![Video](img3.png)<br>(https://youtu.be/N54Y_iZUwXo)
 
