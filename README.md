@@ -1,7 +1,7 @@
 # Functionality
-- ![alt text](ex1.png)
-- ![alt text](ex2.png)
-- ![alt text](ex3.png)
+- ![alt text](img1.png)
+- ![alt text](img2.png)
+- ![alt text](img3.png)
 
 
 # Explanation:
