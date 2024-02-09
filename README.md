@@ -1,4 +1,6 @@
-# Functionality
+# Image recognition project
+This is an image recognition model built using scikit-learn library
+
 - ![alt text](img1.png)
 - ![alt text](img2.png)
 
