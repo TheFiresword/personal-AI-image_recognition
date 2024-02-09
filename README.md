@@ -1,10 +1,9 @@
 # Image recognition project
-This is an image recognition model built using scikit-learn library
+This is an image recognition model built using `scikit-learn` library. The model is trained on a sample of road signs images, and is used to predict the type of road sign contained in other images.
 
-- ![alt text](img1.png)
-- ![alt text](img2.png)
-
-- ![Video](img3.png)<br>(https://youtu.be/N54Y_iZUwXo)
+![alt text](img1.png)
+![alt text](img2.png)
+![Video](img3.png)<br>(https://youtu.be/N54Y_iZUwXo)
 
 # Explanation:
 So, to get a functional model:
